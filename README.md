@@ -1,1 +1,1 @@
-# .github
+# The Minecraft Upgrade Project
